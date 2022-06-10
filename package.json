@@ -5,8 +5,8 @@
     "packages/*"
   ],
   "scripts": {
-    "core": "yarn workspace app-core serve",
-    "hero": "yarn workspace hero serve"
+    "core": "yarn workspace app-core",
+    "hero": "yarn workspace hero"
   },
   "devDependencies": {
     "@babel/core": "^7.18.2",
